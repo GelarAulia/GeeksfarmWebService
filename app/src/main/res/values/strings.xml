@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Geeksfarm Web Service</string>
+
+    <string name="category_prompt">Select Catergory</string>
+    <string-array name="categories">
+        <item>Now Playing</item>
+        <item>Top Rated Movies</item>
+        <item>Popular Movies</item>
+        <item>Upcoming Movies</item>
+    </string-array>
+</resources>
